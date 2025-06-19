@@ -95,9 +95,7 @@ This student is responsible for everything related to computer vision. They will
 2.  **Version Control:** Set up a team repository on **GitHub**. Enforce good practices so that everyone's code can be merged without conflicts.
 3.  **Communication & Coordination:** Lead weekly meetings to sync up. You are the chief communicator, ensuring the GenAI lead knows what data to expect from the Selenium lead, and the UI lead knows the format of the data coming from the Integration lead. You resolve any "traffic jams" in the data flow.
 
-**Key Deliverable:** A fully functional and visually impressive graphical user interface that serves as the face of the project, and a well-managed project plan that keeps the team on track.
-
-**Key Deliverable:** A Python module that, when run, activates the camera and provides real-time data on facial identity and emotional state.
+**Key Deliverable:** A Python module that, when run, activates the camera and provides real-time data on facial identity and emotional state, and a well-managed project plan that keeps the team on track.
 
 ---
 
@@ -164,3 +162,5 @@ This student is responsible for the audience's experience and the project's over
     * Develop the front-end code to create the visual layout.
     * Write the backend GUI code to display all the data coming from the Integration Lead's main app. The interface must update dynamically in real-time.
 3.  **Interactivity:** Create the buttons and controls that allow the audience (or the presenter) to trigger the different threat scenarios for the GenAI to respond to.
+   
+   **Key Deliverable:** A fully functional and visually impressive graphical user interface that serves as the face of the project.
