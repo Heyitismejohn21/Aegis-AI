@@ -1,6 +1,8 @@
 # Aegis-AI
 Aegis AI: A live AI security demo. Using DeepFace, it verifies identity and analyzes emotion for duress detection. Selenium enables real-time web profile matching. A GenAI instantly creates security protocols for audience-suggested threats, fusing computer vision, web automation, and generative AI.
-I UNDERSTAND THAT THE DESCRIPTION IS PRETTY LONG BUT I SUGGEST THAT YOU READ IT.
+---
+I UNDERSTAND THAT THE DESCRIPTION IS PRETTY LONG BUT I SUGGEST THAT YOU READ IT OR AT LEAST GET AN AI SUMMARY.
+---
 **"WHAT IS THE AIM OF THIS PROJECT"**
 An excellent and ambitious project idea! The intersection of facial recognition, generative AI, and web automation holds immense potential for a "wow factor" project in the security domain. Let's assess your "Point Cloud ID" concept and then explore a powerful, innovative alternative that builds upon your initial thoughts while enhancing feasibility and impact for an exhibition setting.
 
