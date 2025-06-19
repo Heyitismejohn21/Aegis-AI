@@ -62,6 +62,8 @@ An individual (a volunteer from the audience) stands before a camera connected t
 Each role is designed to be distinct but interconnected, ensuring every member has a core domain of expertise while contributing to a unified, impressive final product.
 
 ---
+**"WHAT EACH OF US ARE GOING TO DO"**
+---
 
 ### **Student 1: The DeepFace Lead & Project Manager(computer vision)**
 
