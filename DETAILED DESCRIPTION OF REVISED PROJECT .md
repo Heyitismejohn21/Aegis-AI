@@ -9,7 +9,7 @@ Each role is designed to be distinct but interconnected, ensuring every member h
 
 ---
 
-### **Student 1: The DeepFace Lead & Project Manager(The Vision Core)**
+### **Student 1: The DeepFace Lead & Project Manager(computer vision)**
 
 This student is responsible for everything related to computer vision. They will build the system's "eyes" and its ability to understand faces and their expressions.
 
@@ -31,12 +31,19 @@ This student is responsible for everything related to computer vision. They will
     * **Crucially, this must include real-time `emotion` analysis (e.g., "Happy", "Sad", "Anxious").** This is key for the anomaly detection feature.
     * It can also extract secondary attributes like apparent `age` and `gender` for a richer display.
 6.  **Module Creation and Optimization:** Package all the above functionalities into a single, clean Python module (e.g., `vision_core.py`). This module will have functions that the Integration Lead can easily call (e.g., `getUserData()`) to get all the vision-based information in a simple format like a JSON object.
+7.  **Specific Tasks (Project Manager):**
+
+1.  **Project Planning:** Set up a shared project plan (using tools like Trello, Asana, or a simple spreadsheet) with clear deadlines for each task and deliverable.
+2.  **Version Control:** Set up a team repository on **GitHub**. Enforce good practices so that everyone's code can be merged without conflicts.
+3.  **Communication & Coordination:** Lead weekly meetings to sync up. You are the chief communicator, ensuring the GenAI lead knows what data to expect from the Selenium lead, and the UI lead knows the format of the data coming from the Integration lead. You resolve any "traffic jams" in the data flow.
+
+**Key Deliverable:** A fully functional and visually impressive graphical user interface that serves as the face of the project, and a well-managed project plan that keeps the team on track.
 
 **Key Deliverable:** A Python module that, when run, activates the camera and provides real-time data on facial identity and emotional state.
 
 ---
 
-### **Student 2: The GenAI Lead (The Brain)**
+### **Student 2: The GenAI Lead (The AI)**
 
 This student is the creative and linguistic core of the project. They will give "Aegis AI" its intelligence and its voice, making it seem like a truly thinking machine.
 
@@ -58,7 +65,7 @@ This student is the creative and linguistic core of the project. They will give 
 
 ---
 
-### **Student 3: The Selenium & Integration Lead (The Conductor)**
+### **Student 3: The Selenium & Integration Lead (The connetor)**
 
 This student is the glue that holds the entire project together. They handle the interaction with the outside world (the web) and orchestrate the flow of data between all the other modules.
 
@@ -85,7 +92,7 @@ This student is the glue that holds the entire project together. They handle the
 
 ---
 
-### **Student 4: The UI/UX (The Director)**
+### **Student 4: The UI/UX (The overall integration guy )**
 
 This student is responsible for the audience's experience and the project's overall success. They design how the project looks and feels, and ensure the team works together effectively.
 
@@ -99,11 +106,3 @@ This student is responsible for the audience's experience and the project's over
     * Develop the front-end code to create the visual layout.
     * Write the backend GUI code to display all the data coming from the Integration Lead's main app. The interface must update dynamically in real-time.
 3.  **Interactivity:** Create the buttons and controls that allow the audience (or the presenter) to trigger the different threat scenarios for the GenAI to respond to.
-
-**Specific Tasks (Project Manager):**
-
-1.  **Project Planning:** Set up a shared project plan (using tools like Trello, Asana, or a simple spreadsheet) with clear deadlines for each task and deliverable.
-2.  **Version Control:** Set up a team repository on **GitHub**. Enforce good practices so that everyone's code can be merged without conflicts.
-3.  **Communication & Coordination:** Lead weekly meetings to sync up. You are the chief communicator, ensuring the GenAI lead knows what data to expect from the Selenium lead, and the UI lead knows the format of the data coming from the Integration lead. You resolve any "traffic jams" in the data flow.
-
-**Key Deliverable:** A fully functional and visually impressive graphical user interface that serves as the face of the project, and a well-managed project plan that keeps the team on track.
